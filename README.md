@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Alexander Su
 
 ### 🚀 Senior Software Engineer | Senior React Native Engineer  
-📍 San Jose, CA  
-📧 [alexsu094@gmail.com](mailto:alexsu094@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/alexandersu/) | [Portfolio](https://alex-s.netlify.app/)
+
 
 ---
 
