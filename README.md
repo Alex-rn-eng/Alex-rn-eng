@@ -63,11 +63,6 @@ I enjoy solving complex engineering challenges — whether it’s optimizing ren
 
 ---
 
-### 📈 Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsu094&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsu094&layout=compact&theme=react)
-
----
 
 ### 🗣️ “Grounded in real engineering work — not theory. Focused on building fast, stable apps that stand up in production.”
 
